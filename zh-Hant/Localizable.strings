@@ -1,0 +1,825 @@
+/* 1 link */
+"%@ link" = "%@連結";
+
+/* 3 links */
+"%@ links" = "%@連結";
+
+/* Number of votes */
+"%@ votes" = "%@ 票";
+
+/* 1 link, 1 unread */
+"%1$@ link, %2$@ unread" = "%1$@連結，%2$@未讀";
+
+/* 3 links, 2 unread */
+"%1$@ links, %2$@ unread" = "%1$@連結，%2$@未讀";
+
+/* Number of line (singular) */
+"%d Line" = "%d行";
+
+/* Number of line (plural) */
+"%d Lines" = "%d行";
+
+/* Number of links (singular) */
+"%d Link" = "%d 個連結";
+
+/* Number of links (plural) */
+"%d Links" = "%d 個連結";
+
+/* Number of app ratings on the App Store */
+"%d people have rated this version." = "%d人已給此版本評分。";
+
+/* Number of selected links */
+"%d Selected" = "已選擇 %d";
+
+/* Number of unread links (singular) */
+"%d Unread Link" = "%d 個未讀連結";
+
+/* Number of unread links (plural) */
+"%d Unread Links" = "%d 個未讀連結";
+
+/* 1 vote (Singular) */
+"%d vote" = "%d 票";
+
+/* Show on widget */
+"+%@ more" = "+%@更多";
+
+/* Show on widget */
+"+%lld more" = "+%lld 更多";
+
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName}不能高於${maximumValue}。";
+
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName}不能低於${minimumValue}。";
+
+"${displayName} can’t be negative." = "${displayName}不能為負。";
+
+"About GoodLinks" = "關於 GoodLinks";
+
+"Accent Color" = "強調色";
+
+/* Privacy - Photo Library Additions Usage Description */
+"Access to your photo library is required to save photos." = "需要照片庫存取權限才能儲存照片。";
+
+"Accounts" = "帳號";
+
+"Actions" = "動作";
+
+"Add ${tags} to ${links}" = "將${tags}新增到${links}";
+
+"Add ${url}" = "新增${url}";
+
+"Add Action" = "新增動作";
+
+"Add Link" = "新增連結";
+
+"Add or remove from Starred" = "從已加星標中新增或刪除";
+
+"Add Tags to Links" = "為連結新增標籤";
+
+"Add Tags:" = "新增標籤:";
+
+"Add Tags" = "新增標籤";
+
+"Add to Starred" = "新增到加星標";
+
+"Add" = "新增";
+
+"Adds a new link." = "新增一個連結。";
+
+"After logging into your account, tap \"%@\" to import your articles into GoodLinks." = "登入到你的帳戶後，按一下\"%@\"可將你的文章匯入GoodLinks。";
+
+"All GoodLinks data in your iCloud account will be deleted. This cannot be reversed or undone. Please make sure to backup your data before doing this." = "你的iCloud帳戶中的所有GoodLinks資料將被刪除。此動作不能撤銷。在執行前請確保備份你的資料。";
+
+"All local data will be resynced from the cloud. Please make sure to backup your data before doing this." = "所有本地資料都將從雲中重新同步。在執行前請確保備份你的資料。";
+
+"All" = "全部";
+
+"An unspecified error has occurred." = "發生未指定的錯誤。";
+
+"App Icon Badge" = "應用圖示標記";
+
+"App Icon" = "應用圖示";
+
+"Appearance" = "外觀";
+
+"Are you sure you want to delete the %d links permanently?" = "確定要永久刪除 %d 個連結嗎？";
+
+"Are you sure you want to delete the %lld links permanently?" = "確定要永久刪除 %lld 個連結嗎？";
+
+"Are you sure you want to delete the link permanently?" = "確定要永久刪除此連結嗎？";
+
+"Are you sure you want to delete the tag?" = "確定要刪除此標籤嗎？";
+
+"Article View Only" = "僅閱讀器";
+
+"Article" = "文章";
+
+"Author" = "作者";
+
+"Back" = "返回";
+
+"Badges" = "標記";
+
+"Based on Screen Brightness" = "基於螢幕亮度";
+
+/* Color */
+"Blue" = "藍色";
+
+"Choose a link" = "選擇一個連結";
+
+"Clear Local Data" = "清除本地資料";
+
+"Color" = "顏色";
+
+"Connect your Twitter account to GoodLinks to save the full content of Tweets and Twitter threads." = "將您的Twitter帳戶連線到GoodLinks以儲存推文和Twitter帖子的完整內容。";
+
+"Connect your Twitter account to GoodLinks to save\nthe full content of Tweets and Twitter threads." = "將您的Twitter帳戶連線到GoodLinks以儲存推文和\nTwitter帖子的完整內容。";
+
+"Contain ${searchText}, tagged with ${tags}" = "包含${searchText}，有${tags}標籤";
+
+"Contain ${searchText}" = "包含${searchText}";
+
+"Copy Markdown" = "複製Markdown";
+
+"Copy Plain Text" = "複製純文字";
+
+"Copy URL" = "複製URL";
+
+"Could not open the URL." = "無法開啟URL。";
+
+"Custom Actions" = "自訂操作";
+
+/* Color */
+"Cyan" = "青色";
+
+/* Dark theme */
+"Dark" = "暗色";
+
+"Decrease Font Size" = "減小字型大小";
+
+"Decrease Line Height" = "減小行高";
+
+"Decrease Line Width" = "減小線寬";
+
+"Default Browser" = "預設瀏覽器";
+
+"Default Dark Theme" = "預設黑暗主題";
+
+"Default Light Theme" = "預設明亮主題";
+
+"Default" = "預設";
+
+"Delete ${links}" = "刪除${links}";
+
+"Delete all GoodLinks data in your iCloud account." = "刪除你的iCloud帳戶中的所有GoodLinks資料。";
+
+"Delete Links" = "刪除連結";
+
+"Delete Selected" = "刪除所選";
+
+"Delete Tag" = "刪除標籤";
+
+"Delete" = "刪除";
+
+"Deletes the specified links." = "刪除指定的連結。";
+
+"Deleting…" = "正在刪除⋯";
+
+"Deselect All" = "取消全選";
+
+"Detail" = "詳情";
+
+"Do not ask me again" = "不再詢問";
+
+"Do you want to add it to Starred?" = "是否要將其新增到「加星標」？";
+
+"Do you want to include read links?" = "是否要包含已讀連結？";
+
+"Do you want to limit the number of links?" = "是否要限制連結數？";
+
+"Do you want to mark it as read?" = "要標記為已讀嗎？";
+
+"Do you want to upload and merge data on this device with iCloud?" = "要使用iCloud在此裝置上上傳和合併資料嗎？";
+
+"Done" = "完成";
+
+"Download" = "下載";
+
+"Downloading…" = "正在下載⋯";
+
+"Downloading" = "正在下載";
+
+"Drop to share, star, mark as read…" = "丟放以分享、加星標、標記為已讀⋯";
+
+"Edit Links" = "編輯連結";
+
+"Edit" = "編輯";
+
+"Enable File Logging" = "啟用檔案記錄";
+
+"Ensures each link contains the specified tags, adding them if needed." = "確保每個連結都包含指定的標籤，並在需要時新增它們。";
+
+"Enter Safari Reader mode automatically when it is available for the webpage." = "當網頁可用時，自動進入Safari閱讀器模式。";
+
+"Export as Markdown" = "匯出為 Markdown";
+
+"Export as PDF" = "匯出為 PDF";
+
+"Export as Plain Text" = "匯出為純文字";
+
+"Export As:" = "匯出為:";
+
+"Export Data" = "匯出資料";
+
+"Export" = "匯出";
+
+"Failed to save link" = "無法儲存連結";
+
+"File Logging" = "檔案記錄";
+
+"Filter Tags" = "篩選標籤";
+
+"Filtered by Focus" = "按專注篩選";
+
+"Focus Filter Off" = "專注篩選關閉";
+
+"Font Size" = "字型大小";
+
+"Font" = "字型";
+
+"Force GoodLinks to resync all local data from iCloud." = "強制GoodLinks從iCloud重新同步所有本地資料。";
+
+"Found %@ result" = "找到%@個結果";
+
+/* Found 3 results */
+"Found %@ results" = "找到%@個結果";
+
+"Get links in ${type}" = "獲取${type}中的連結";
+
+"Get Links in List" = "獲取列表中的連結";
+
+"Get links in Read" = "獲取已讀連結";
+
+"Get links in Starred" = "獲取加星標連結";
+
+"Get links in Unread" = "獲取未讀連結";
+
+"Get links in Untagged" = "獲取無標籤連結";
+
+"Get links tagged with ${tag}" = "獲取標記有${tag}的連結";
+
+"Get quick access to a list or tag." = "快速存取列表或標籤。";
+
+"Get Tagged Links" = "獲取有標籤的連結";
+
+"Get tags" = "獲取標籤";
+
+"Get Tags" = "獲取標籤";
+
+/* Color */
+"Gold" = "金色";
+
+"GoodLinks is not authorized to set unread count badge. Please check your settings and then enable Unread Count Badge again." = "GoodLinks無權設定未讀計數標記。請檢查你的設定，然後再次啟用「未讀計數標記」。";
+
+"GoodLinks will now begin resyncing data in the background. This may take a few minutes to complete." = "GoodLinks現在將開始在後臺重新同步資料。這可能需要幾分鐘才能完成。";
+
+/* Color */
+"Gray" = "灰色";
+
+/* Color */
+"Green" = "綠色";
+
+"Hide GoodLinks" = "隱藏 GoodLinks";
+
+"Hide Links" = "隱藏連結";
+
+"Hide Read Links" = "隱藏已讀連結";
+
+"Hide Sidebar and Links" = "隱藏邊欄和連結";
+
+"Hide Sidebar" = "隱藏側邊欄";
+
+"How many links do you want to get?" = "你想獲取多少個連結？";
+
+"iCloud Account Changed" = "iCloud帳戶已變更";
+
+"Icon" = "圖示";
+
+"Import All (%d)" = "全部匯入(%d)";
+
+"Import Archive (%d)" = "匯入文章(%d)";
+
+"Import From…" = "匯入從⋯";
+
+"Import Private (%d)" = "匯入私人(%d)";
+
+"Import Public (%d)" = "匯入公開(%d)";
+
+"Import Unread (%d)" = "匯入未讀(%d)";
+
+"Import" = "匯入";
+
+"In-app Browser" = "應用內瀏覽器";
+
+"Include Read Links" = "包含已讀連結";
+
+"Increase Font Size" = "增加字型大小";
+
+"Increase Line Height" = "增加行高";
+
+"Increase Line Width" = "增加線寬";
+
+"Keyboard Shortcuts" = "鍵盤快速鍵";
+
+"Last Modified Date" = "上次修改日期";
+
+/* Light theme */
+"Light" = "亮色";
+
+"Limit" = "限制";
+
+"Line Height" = "行高";
+
+"Line Width" = "行寬";
+
+"Link Detail" = "連結詳情";
+
+"Link List" = "連結列表";
+
+"Link not found." = "找不到連結。";
+
+"Link Search" = "連結搜尋";
+
+"Link" = "連結";
+
+"Links and Article View" = "連結和閱讀器";
+
+"Links" = "連結";
+
+"List Settings" = "列表設定";
+
+"List" = "清單";
+
+"Lists & Tags" = "列表和標籤";
+
+"Lists" = "列表";
+
+"Lists/Tags Badges" = "列表/標籤標記";
+
+"Log in to paywalled sites to get full access to their content.\nAfter you have logged in, you may need to re-download the links you saved from those sites." = "登入您最喜歡的網站以完全存取其內容。 \n登入後，您可能需要重新下載從這些網站儲存的連結。";
+
+"Log in to Sites…" = "登入網站⋯";
+
+"Log in to Sites" = "登入網站";
+
+"Long Swipe Left" = "向左長滑";
+
+"Long Swipe Right" = "向右長滑";
+
+"Main List Type" = "主列表類型";
+
+"Main Window" = "主視窗";
+
+"Manually" = "手動";
+
+"Mark as Read or Unread" = "標記為已讀或未讀";
+
+"Mark as Read" = "標記為已讀";
+
+"Mark as Unread" = "標記為未讀";
+
+"Mark Read" = "標記已讀";
+
+"Marks as Read" = "標記為已讀";
+
+"Marks as Unread" = "標記為未讀";
+
+"Match System" = "匹配系統";
+
+"Maybe Later" = "關閉";
+
+"Merge" = "合併";
+
+/* Color */
+"Mint" = "薄荷";
+
+"More Actions" = "更多動作";
+
+"More" = "更多";
+
+"Multiple Selection" = "多項選擇";
+
+"Name" = "名稱";
+
+"New Link" = "新連結";
+
+"Newest First" = "最新優先";
+
+/* Night theme */
+"Night" = "夜晚";
+
+"No actions" = "沒有操作";
+
+"No Link Selected" = "未選擇連結";
+
+"No links found." = "未找到連結。";
+
+"No links" = "沒有連結";
+
+"No results" = "沒有結果";
+
+"No tags" = "無標籤";
+
+"No unread links" = "沒有未讀連結";
+
+"No URL found" = "找不到URL";
+
+"None" = "無";
+
+"Not Available Offline" = "離線不可用";
+
+"Number of Links" = "連結數";
+
+"Oldest First" = "最早的優先";
+
+"On Open" = "開啟時";
+
+"Open ${link}" = "開啟${link}";
+
+"Open a random unread link." = "開啟一個隨機未讀連結。";
+
+"Open a random unread link" = "開啟一個隨機未讀連結";
+
+/* Open website in Safari/Google Chrome... */
+"Open in %@" = "在%@中開啟";
+
+"Open in Browser" = "在瀏覽器中開啟";
+
+"Open in New Window" = "在新視窗中開啟";
+
+"Open Last Unread in ${applicationName}" = "在${applicationName}中開啟上一個未讀";
+
+"Open Last Unread" = "開啟最後一個未讀";
+
+"Open Latest Unread in ${applicationName}" = "Open Latest Unread in ${applicationName}";
+
+"Open Link" = "開啟連結";
+
+"Open links in browser in background" = "在背景瀏覽器中開啟連結";
+
+"Open Links In" = "開啟連結方式";
+
+"Open Random in ${applicationName}" = "在${applicationName}中隨機開啟";
+
+"Open Random Link" = "開啟隨機連結";
+
+"Open the last unread link" = "開啟最後一個未讀連結";
+
+"Opens a random unread link in the GoodLinks app." = "開啟GoodLinks應用中一個隨機未讀連結。";
+
+"Opens the last unread link in the GoodLinks app." = "開啟GoodLinks應用中最後一個未讀連結。";
+
+"Opens the link passed in as input." = "開啟作為輸入傳遞的連結。";
+
+"Optional, separated by spaces" = "可選，以空格分隔";
+
+"Optional" = "可選";
+
+"Optionally, a summary for this link." = "Optionally, a summary for this link.";
+
+"Optionally, a title for this link." = "Optionally, a title for this link.";
+
+"Optionally, add this link to Starred." = "Optionally, add this link to Starred.";
+
+"Optionally, mark this link as read." = "Optionally, mark this link as read.";
+
+"Optionally, tags to add to this link." = "Optionally, tags to add to this link.";
+
+"Optionally, what tags to include, separated by spaces." = "Optionally, what tags to include, separated by spaces.";
+
+/* Color */
+"Orange" = "橙色";
+
+/* Color */
+"Pink" = "粉色";
+
+"Plain Text" = "純文字";
+
+"Print" = "列印";
+
+"Property" = "Property";
+
+/* Color */
+"Purple" = "紫色";
+
+"Quick Save" = "快速儲存";
+
+"Quit GoodLinks" = "離開 GoodLinks";
+
+"Rate GoodLinks on the App Store" = "在App Store給GoodLinks評分";
+
+"Re-download Article" = "重新下載文章";
+
+"Read Date" = "已讀日期";
+
+"Read" = "已讀";
+
+"Reader Mode" = "閱讀器模式";
+
+"Reader Settings" = "閱讀器設定";
+
+/* Color */
+"Red" = "紅色";
+
+"Remove ${tags} from ${links}" = "從${links}中刪除${tags}";
+
+"Remove from Starred" = "從「加星標」移除";
+
+"Remove Tags from Links" = "從連結中刪除標籤";
+
+"Removes tags from each specified link, if the tags are present." = "如果標籤存在，則從每個指定連結中刪除標籤。";
+
+"Rename Tag" = "重命名標籤";
+
+"Rename" = "重命名";
+
+"Reorder Actions" = "重新排序操作";
+
+"Required" = "必需";
+
+"Reset iCloud Data" = "重設iCloud資料";
+
+"Reset Sync State" = "重設同步狀態";
+
+"Resync" = "重新同步";
+
+"Returns all tags." = "Returns all tags.";
+
+"Returns links are tagged with the specified tag." = "返回含指定的標籤的連結。";
+
+"Returns links in the specified list." = "返回指定列表中的連結。";
+
+"Safari Reader Mode" = "Safari閱讀器模式";
+
+"Save…" = "儲存⋯";
+
+"Saved Date" = "儲存日期";
+
+"Saved" = "已儲存";
+
+"Search or enter website name" = "搜尋或輸入網站名稱";
+
+"Search text." = "Search text.";
+
+"Search" = "搜尋";
+
+/* Searching “[List Name]” */
+"Searching “%@”" = "正在搜尋「%@」";
+
+"See only the links that are tagged with specified tags." = "See only the links that are tagged with specified tags.";
+
+"Select All" = "全選";
+
+"Select" = "選擇";
+
+"Send Log File" = "傳送記錄檔檔案";
+
+/* Color */
+"Sepia" = "棕褐色";
+
+"Set ${field} of ${links} to ${tags}" = "將${links}的${field}設定為${tags}";
+
+"Set ${field} of ${links} to ${text}" = "將${links}的${field}設定為${text}";
+
+"Set ${field} of ${links} to ${yesOrNo}" = "將${links}的${field}設定為${yesOrNo}";
+
+"Set ${field} of ${links}" = "設定${links}的${field}";
+
+"Set Tags:" = "設定標籤:";
+
+"Set Tags" = "設定標籤";
+
+"Sets a specific field of the links passed into the action." = "設定一個傳遞給行動的連結特定欄位。";
+
+"Settings" = "設定";
+
+"Share Extension" = "分享擴展";
+
+"Share" = "分享";
+
+"Short Swipe Left" = "向左短滑";
+
+"Short Swipe Right" = "向右短滑";
+
+"Show ${type} in ${applicationName}" = "在${applicationName}中顯示${type}";
+
+"Show ${type}" = "顯示${type}";
+
+"Show Favicons" = "顯示最愛圖示";
+
+"Show favicons" = "顯示收藏圖示";
+
+"Show links tagged with ${tag}" = "顯示有${tag}標籤的連結";
+
+"Show Links" = "顯示連結";
+
+"Show List" = "顯示列表";
+
+"Show preview images" = "顯示預覽圖像";
+
+"Show Preview Images" = "顯示預覽圖片";
+
+"Show Read Links" = "顯示已讀連結";
+
+"Show Read" = "顯示已讀";
+
+"Show Sidebar and Links" = "顯示邊欄和連結";
+
+"Show Sidebar" = "顯示側邊欄";
+
+"Show Starred" = "顯示加星標";
+
+"Show Tag" = "顯示標籤";
+
+"Show Tagged in ${applicationName}" = "在${applicationName}中顯示加標籤的";
+
+"Show Unread" = "顯示未讀";
+
+"Show Untagged" = "顯示無標籤";
+
+"Shows links are tagged with the specified tag in the GoodLinks app." = "顯示在GoodLinks應用中使用指定標籤進行標記的連結。";
+
+"Shows the specified list in the GoodLinks app." = "顯示GoodLinks應用中指定的列表。";
+
+"Sidebar, Links and Article View" = "側邊欄、連結和閱讀器";
+
+"Sidebar" = "側欄";
+
+"Sign In" = "登入";
+
+"Sign Out" = "登出";
+
+/* Signed in as [User Name]. */
+"Signed in as %@." = "已登入為 %@。";
+
+"Signing In…" = "登入中⋯";
+
+"Star" = "加星標";
+
+"Starred (%d)" = "已加星標(%d)";
+
+"Starred" = "加星標";
+
+"Summary:" = "摘要:";
+
+"Summary" = "摘要";
+
+"Support" = "與支援部門聯繫";
+
+"Supported tags: [url], [url-unescaped], [image-url], [image-url-unescaped], [title], [summary], [author], [content-html], [content-text], [content-markdown], [tags]. Text enclosed in { } will be URL encoded." = "支援的標籤：[url]、[url-unscaped]、[image-url]、[image-url-unscaped]、[title]、[summary]、[author]、[content-html]、[content-text]、[content-markdown]、[tags]。{}中包含的文字將進行URL編碼。";
+
+"Swipe up or down with two fingers to quickly switch between the most recent light and dark themes." = "兩指上滑和下滑可在最新的亮色和暗色主題之間快速切換。";
+
+"Swipes" = "滑動";
+
+"Switch Theme" = "切換主題";
+
+"System Font" = "系統字型";
+
+"System" = "符合系統設定";
+
+/* Tag [TAG_NAME] */
+"Tag %@" = "標籤 %@";
+
+"Tag" = "標籤";
+
+"Tags:" = "標籤:";
+
+"Tags" = "標籤";
+
+"Tap to edit" = "點按可編輯";
+
+"The link to open." = "The link to open.";
+
+"The links to be deleted." = "The links to be deleted.";
+
+"The links to be updated." = "The links to be updated.";
+
+"The list to show." = "The list to show.";
+
+"The property to set for the links." = "The property to set for the links.";
+
+"The tag '${tag}' does not exist." = "標籤'${tag}'不存在。";
+
+"The tag to show." = "The tag to show.";
+
+"The tags to add to the links." = "The tags to add to the links.";
+
+"The tags to filter." = "The tags to filter.";
+
+"The tags to remove from the links." = "The tags to remove from the links.";
+
+"The theme will automatically change based on your display brightness. You can set the threshold where the theme changes. The circle indicates your display's current brightness." = "主題將根據顯示幕亮度自動更改。可以設定主題更改的閾值。圓圈表示顯示幕的當前亮度。";
+
+"The URL is not valid." = "URL無效。";
+
+"The URL to be added." = "The URL to be added.";
+
+"Themes" = "主題";
+
+"This is a destructive and permanent action. You will be asked to confirm before links are deleted." = "This is a destructive and permanent action. You will be asked to confirm before links are deleted.";
+
+"This page is not available offline." = "此頁面無法離線使用。";
+
+"Title:" = "標題:";
+
+"Title" = "標題";
+
+"Toggle Read" = "切換已讀";
+
+"Toggle Sidebars" = "切換側邊欄";
+
+"Toggle Starred" = "切換加星標";
+
+"Total" = "總計";
+
+"Turn Off" = "關閉";
+
+"Turn On" = "開啟";
+
+/* Show number of deleted items, e.g: Undo Delete (3) */
+"Undo Delete (%d)" = "復原刪除(%d)";
+
+"Undo Delete" = "復原刪除";
+
+"Unread (%d)" = "未讀(%d)";
+
+"Unread Count Disabled" = "未讀計數已禁用";
+
+"Unread Only" = "僅未讀";
+
+"Unread" = "未讀";
+
+"Unstar" = "取消星標";
+
+"Unstarred" = "已取消星標";
+
+"Untagged" = "無標籤";
+
+"Update Action" = "更新操作";
+
+"Update Link" = "更新連結";
+
+"Update" = "更新";
+
+"URL:" = "URL:";
+
+"URL" = "URL";
+
+"Value" = "值";
+
+/* Version 1.0 (523) */
+"Version %1$@ (%2$@)" = "版本 %1$@ (%2$@)";
+
+"What do you want to search?" = "要搜尋什麼？";
+
+"What is its summary?" = "它的摘要是什麼？";
+
+"What is its tags?" = "它的標籤是什麼？";
+
+"What is its title?" = "標題是什麼？";
+
+"What link do you want to open?" = "你想開啟什麼連結？";
+
+"What tag do you want to filter?" = "要篩選什麼標籤？";
+
+"What tag do you want to open?" = "要開啟什麼標籤？";
+
+"What tags do you want to add?" = "What tags do you want to add?";
+
+"What tags do you want to filter?" = "要篩選哪些標籤？";
+
+"What tags do you want to remove?" = "What tags do you want to remove?";
+
+"What URL do you want to add?" = "要新增什麼URL？";
+
+"What value do you want to set?" = "What value do you want to set?";
+
+"What's New" = "有什麼新鮮事？";
+
+"Whether or not to include read links." = "Whether or not to include read links.";
+
+"Whether or not to limit the number of link retrieved." = "Whether or not to limit the number of link retrieved.";
+
+"Which link do you want to open?" = "Which link do you want to open?";
+
+"Which link?" = "Which link?";
+
+"Which list?" = "哪個列表？";
+
+"Which tag do you want to open?" = "Which tag do you want to open?";
+
+"You can sign in later by tapping Settings > Accounts." = "可透過按「設定」>「帳戶」稍後登入。";
+
+"You can sign in later in Preferences > Accounts." = "You can sign in later in Preferences > Accounts.";
+
+"You can sign in later in Settings > Accounts." = "You can sign in later in Settings > Accounts.";

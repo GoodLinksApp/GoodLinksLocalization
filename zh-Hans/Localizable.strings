@@ -1,0 +1,825 @@
+/* 1 link */
+"%@ link" = "%@链接";
+
+/* 3 links */
+"%@ links" = "%@链接";
+
+/* Number of votes */
+"%@ votes" = "%@ 票";
+
+/* 1 link, 1 unread */
+"%1$@ link, %2$@ unread" = "%1$@链接，%2$@未读";
+
+/* 3 links, 2 unread */
+"%1$@ links, %2$@ unread" = "%1$@链接，%2$@未读";
+
+/* Number of line (singular) */
+"%d Line" = "%d行";
+
+/* Number of line (plural) */
+"%d Lines" = "%d行";
+
+/* Number of links (singular) */
+"%d Link" = "%d 个链接";
+
+/* Number of links (plural) */
+"%d Links" = "%d 个链接";
+
+/* Number of app ratings on the App Store */
+"%d people have rated this version." = "%d人已给比版本评分。";
+
+/* Number of selected links */
+"%d Selected" = "已选择 %d";
+
+/* Number of unread links (singular) */
+"%d Unread Link" = "%d 个未读链接";
+
+/* Number of unread links (plural) */
+"%d Unread Links" = "%d 个未读链接";
+
+/* 1 vote (Singular) */
+"%d vote" = "%d 票";
+
+/* Show on widget */
+"+%@ more" = "+%@更多";
+
+/* Show on widget */
+"+%lld more" = "+%lld 更多";
+
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName}不能高于${maximumValue}。";
+
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName}不能低于${minimumValue}。";
+
+"${displayName} can’t be negative." = "${displayName}不能为负。";
+
+"About GoodLinks" = "关于 GoodLinks";
+
+"Accent Color" = "强调色";
+
+/* Privacy - Photo Library Additions Usage Description */
+"Access to your photo library is required to save photos." = "需要照片库访问权限才能保存照片。";
+
+"Accounts" = "帐户";
+
+"Actions" = "操作";
+
+"Add ${tags} to ${links}" = "将${tags}添加到${links}";
+
+"Add ${url}" = "添加${url}";
+
+"Add Action" = "添加操作";
+
+"Add Link" = "添加链接";
+
+"Add or remove from Starred" = "从已加星标中添加或删除";
+
+"Add Tags to Links" = "为链接添加标签";
+
+"Add Tags:" = "添加标签:";
+
+"Add Tags" = "添加标签";
+
+"Add to Starred" = "添加到加星标";
+
+"Add" = "添加";
+
+"Adds a new link." = "添加一个新链接。";
+
+"After logging into your account, tap \"%@\" to import your articles into GoodLinks." = "登录到你的帐户后，点击\"%@\"可将你的文章导入GoodLinks。";
+
+"All GoodLinks data in your iCloud account will be deleted. This cannot be reversed or undone. Please make sure to backup your data before doing this." = "你的iCloud帐户中的所有GoodLinks数据将被删除。此操作不能撤消。在执行前请确保备份你的数据。";
+
+"All local data will be resynced from the cloud. Please make sure to backup your data before doing this." = "所有本地数据都将从云中重新同步。在执行前请确保备份你的数据。";
+
+"All" = "全部";
+
+"An unspecified error has occurred." = "发生未指定的错误。";
+
+"App Icon Badge" = "应用图标标记";
+
+"App Icon" = "应用图标";
+
+"Appearance" = "外观";
+
+"Are you sure you want to delete the %d links permanently?" = "确定要永久删除 %d 个链接吗？";
+
+"Are you sure you want to delete the %lld links permanently?" = "确定要永久删除 %lld 个链接吗？";
+
+"Are you sure you want to delete the link permanently?" = "确定要永久删除此链接吗？";
+
+"Are you sure you want to delete the tag?" = "确定要删除此标签吗？";
+
+"Article View Only" = "仅阅读器";
+
+"Article" = "文章";
+
+"Author" = "作者";
+
+"Back" = "返回";
+
+"Badges" = "标记";
+
+"Based on Screen Brightness" = "基于屏幕亮度";
+
+/* Color */
+"Blue" = "蓝色";
+
+"Choose a link" = "选择一个链接";
+
+"Clear Local Data" = "清除本地数据";
+
+"Color" = "颜色";
+
+"Connect your Twitter account to GoodLinks to save the full content of Tweets and Twitter threads." = "将您的Twitter帐户连接到GoodLinks以保存推文和Twitter帖子的完整内容。";
+
+"Connect your Twitter account to GoodLinks to save\nthe full content of Tweets and Twitter threads." = "将您的Twitter帐户连接到GoodLinks以保存推文和\nTwitter帖子的完整内容。";
+
+"Contain ${searchText}, tagged with ${tags}" = "包含${searchText}，有${tags}标签";
+
+"Contain ${searchText}" = "包含${searchText}";
+
+"Copy Markdown" = "复制Markdown";
+
+"Copy Plain Text" = "复制纯文本";
+
+"Copy URL" = "复制URL";
+
+"Could not open the URL." = "无法打开URL。";
+
+"Custom Actions" = "自定义操作";
+
+/* Color */
+"Cyan" = "青色";
+
+/* Dark theme */
+"Dark" = "暗色";
+
+"Decrease Font Size" = "减小字体大小";
+
+"Decrease Line Height" = "减小行高";
+
+"Decrease Line Width" = "减小线宽";
+
+"Default Browser" = "默认浏览器";
+
+"Default Dark Theme" = "默认黑暗主题";
+
+"Default Light Theme" = "默认明亮主题";
+
+"Default" = "默认";
+
+"Delete ${links}" = "删除${links}";
+
+"Delete all GoodLinks data in your iCloud account." = "删除你的iCloud帐户中的所有GoodLinks数据。";
+
+"Delete Links" = "删除链接";
+
+"Delete Selected" = "删除所选";
+
+"Delete Tag" = "删除标签";
+
+"Delete" = "删除";
+
+"Deletes the specified links." = "删除指定的链接。";
+
+"Deleting…" = "正在删除…";
+
+"Deselect All" = "取消全选";
+
+"Detail" = "详情";
+
+"Do not ask me again" = "不再询问";
+
+"Do you want to add it to Starred?" = "是否要将其添加到“加星标”？";
+
+"Do you want to include read links?" = "是否要包含已读链接？";
+
+"Do you want to limit the number of links?" = "是否要限制链接数？";
+
+"Do you want to mark it as read?" = "要标记为已读吗？";
+
+"Do you want to upload and merge data on this device with iCloud?" = "要使用iCloud在此设备上上传和合并数据吗？";
+
+"Done" = "完成";
+
+"Download" = "下载";
+
+"Downloading…" = "正在下载…";
+
+"Downloading" = "正在下载";
+
+"Drop to share, star, mark as read…" = "丢放以分享、加星标、标记为已读…";
+
+"Edit Links" = "编辑链接";
+
+"Edit" = "编辑";
+
+"Enable File Logging" = "启用文件记录";
+
+"Ensures each link contains the specified tags, adding them if needed." = "确保每个链接都包含指定的标签，并在需要时添加它们。";
+
+"Enter Safari Reader mode automatically when it is available for the webpage." = "当网页可用时，自动进入Safari阅读器模式。";
+
+"Export as Markdown" = "导出为 Markdown";
+
+"Export as PDF" = "导出为 PDF";
+
+"Export as Plain Text" = "导出为纯文本";
+
+"Export As:" = "导出为:";
+
+"Export Data" = "导出数据";
+
+"Export" = "导出";
+
+"Failed to save link" = "无法保存链接";
+
+"File Logging" = "文件记录";
+
+"Filter Tags" = "筛选标签";
+
+"Filtered by Focus" = "按专注筛选";
+
+"Focus Filter Off" = "专注筛选关闭";
+
+"Font Size" = "字体大小";
+
+"Font" = "字体";
+
+"Force GoodLinks to resync all local data from iCloud." = "强制GoodLinks从iCloud重新同步所有本地数据。";
+
+"Found %@ result" = "找到%@个结果";
+
+/* Found 3 results */
+"Found %@ results" = "找到%@个结果";
+
+"Get links in ${type}" = "获取${type}中的链接";
+
+"Get Links in List" = "获取列表中的链接";
+
+"Get links in Read" = "获取已读链接";
+
+"Get links in Starred" = "获取加星标链接";
+
+"Get links in Unread" = "获取未读链接";
+
+"Get links in Untagged" = "获取无标签链接";
+
+"Get links tagged with ${tag}" = "获取标记有${tag}的链接";
+
+"Get quick access to a list or tag." = "快速访问列表或标签。";
+
+"Get Tagged Links" = "获取有标签的链接";
+
+"Get tags" = "获取标签";
+
+"Get Tags" = "获取标签";
+
+/* Color */
+"Gold" = "金色";
+
+"GoodLinks is not authorized to set unread count badge. Please check your settings and then enable Unread Count Badge again." = "GoodLinks无权设置未读计数标记。请检查你的设置，然后再次启用“未读计数标记”。";
+
+"GoodLinks will now begin resyncing data in the background. This may take a few minutes to complete." = "GoodLinks现在将开始在后台重新同步数据。这可能需要几分钟才能完成。";
+
+/* Color */
+"Gray" = "灰色";
+
+/* Color */
+"Green" = "绿色";
+
+"Hide GoodLinks" = "隐藏 GoodLinks";
+
+"Hide Links" = "隐藏连结";
+
+"Hide Read Links" = "隐藏已读链接";
+
+"Hide Sidebar and Links" = "隐藏边栏和链接";
+
+"Hide Sidebar" = "隐藏侧边栏";
+
+"How many links do you want to get?" = "你想获取多少个链接？";
+
+"iCloud Account Changed" = "iCloud帐户已变更";
+
+"Icon" = "图标";
+
+"Import All (%d)" = "全部导入(%d)";
+
+"Import Archive (%d)" = "导入文章(%d)";
+
+"Import From…" = "导入从…";
+
+"Import Private (%d)" = "导入私人(%d)";
+
+"Import Public (%d)" = "导入公开(%d)";
+
+"Import Unread (%d)" = "导入未读(%d)";
+
+"Import" = "导入";
+
+"In-app Browser" = "应用内浏览器";
+
+"Include Read Links" = "包含已读链接";
+
+"Increase Font Size" = "增加字体大小";
+
+"Increase Line Height" = "增加行高";
+
+"Increase Line Width" = "增加线宽";
+
+"Keyboard Shortcuts" = "键盘快捷键";
+
+"Last Modified Date" = "上次修改日期";
+
+/* Light theme */
+"Light" = "亮色";
+
+"Limit" = "限制";
+
+"Line Height" = "行高";
+
+"Line Width" = "行宽";
+
+"Link Detail" = "链接详情";
+
+"Link List" = "链接列表";
+
+"Link not found." = "找不到链接。";
+
+"Link Search" = "链接搜索";
+
+"Link" = "连结";
+
+"Links and Article View" = "链接和阅读器";
+
+"Links" = "链接";
+
+"List Settings" = "列表设置";
+
+"List" = "列表";
+
+"Lists & Tags" = "列表和标签";
+
+"Lists" = "列表";
+
+"Lists/Tags Badges" = "列表/标签标记";
+
+"Log in to paywalled sites to get full access to their content.\nAfter you have logged in, you may need to re-download the links you saved from those sites." = "登录您最喜欢的网站以完全访问其内容。 \n登录后，您可能需要重新下载从这些站点保存的链接。";
+
+"Log in to Sites…" = "登录网站…";
+
+"Log in to Sites" = "登录网站";
+
+"Long Swipe Left" = "向左长滑";
+
+"Long Swipe Right" = "向右长滑";
+
+"Main List Type" = "主列表类型";
+
+"Main Window" = "主窗口";
+
+"Manually" = "手动";
+
+"Mark as Read or Unread" = "标记为已读或未读";
+
+"Mark as Read" = "标记为已读";
+
+"Mark as Unread" = "标记为未读";
+
+"Mark Read" = "标记已读";
+
+"Marks as Read" = "标记为已读";
+
+"Marks as Unread" = "标记为未读";
+
+"Match System" = "匹配系统";
+
+"Maybe Later" = "关闭";
+
+"Merge" = "合并";
+
+/* Color */
+"Mint" = "薄荷";
+
+"More Actions" = "更多操作";
+
+"More" = "更多";
+
+"Multiple Selection" = "多项选择";
+
+"Name" = "名称";
+
+"New Link" = "新链接";
+
+"Newest First" = "最新优先";
+
+/* Night theme */
+"Night" = "夜晚";
+
+"No actions" = "没有操作";
+
+"No Link Selected" = "未选择链接";
+
+"No links found." = "未找到链接。";
+
+"No links" = "没有链接";
+
+"No results" = "没有结果";
+
+"No tags" = "无标签";
+
+"No unread links" = "没有未读链接";
+
+"No URL found" = "找不到URL";
+
+"None" = "无";
+
+"Not Available Offline" = "离线不可用";
+
+"Number of Links" = "链接数";
+
+"Oldest First" = "最早的优先";
+
+"On Open" = "打开时";
+
+"Open ${link}" = "打开${link}";
+
+"Open a random unread link." = "打开一个随机未读链接。";
+
+"Open a random unread link" = "打开一个随机未读链接";
+
+/* Open website in Safari/Google Chrome... */
+"Open in %@" = "在%@中打开";
+
+"Open in Browser" = "在浏览器中打开";
+
+"Open in New Window" = "在新窗口中打开";
+
+"Open Last Unread in ${applicationName}" = "在${applicationName}中打开上一个未读";
+
+"Open Last Unread" = "打开最后一个未读";
+
+"Open Latest Unread in ${applicationName}" = "Open Latest Unread in ${applicationName}";
+
+"Open Link" = "打开链接";
+
+"Open links in browser in background" = "在后台浏览器中打开链接";
+
+"Open Links In" = "打开链接方式";
+
+"Open Random in ${applicationName}" = "在${applicationName}中随机打开";
+
+"Open Random Link" = "打开随机链接";
+
+"Open the last unread link" = "打开最后一个未读链接";
+
+"Opens a random unread link in the GoodLinks app." = "打开GoodLinks应用中一个随机未读链接。";
+
+"Opens the last unread link in the GoodLinks app." = "打开GoodLinks应用中最后一个未读链接。";
+
+"Opens the link passed in as input." = "打开作为输入传递的链接。";
+
+"Optional, separated by spaces" = "可选，以空格分隔";
+
+"Optional" = "可选";
+
+"Optionally, a summary for this link." = "Optionally, a summary for this link.";
+
+"Optionally, a title for this link." = "Optionally, a title for this link.";
+
+"Optionally, add this link to Starred." = "Optionally, add this link to Starred.";
+
+"Optionally, mark this link as read." = "Optionally, mark this link as read.";
+
+"Optionally, tags to add to this link." = "Optionally, tags to add to this link.";
+
+"Optionally, what tags to include, separated by spaces." = "Optionally, what tags to include, separated by spaces.";
+
+/* Color */
+"Orange" = "橙色";
+
+/* Color */
+"Pink" = "粉色";
+
+"Plain Text" = "纯文本";
+
+"Print" = "打印";
+
+"Property" = "Property";
+
+/* Color */
+"Purple" = "紫色";
+
+"Quick Save" = "快速保存";
+
+"Quit GoodLinks" = "退出 GoodLinks";
+
+"Rate GoodLinks on the App Store" = "在App Store给GoodLinks评分";
+
+"Re-download Article" = "重新下载文章";
+
+"Read Date" = "已读日期";
+
+"Read" = "已读";
+
+"Reader Mode" = "阅读器模式";
+
+"Reader Settings" = "阅读器设置";
+
+/* Color */
+"Red" = "红色";
+
+"Remove ${tags} from ${links}" = "从${links}中删除${tags}";
+
+"Remove from Starred" = "从“加星标”移除";
+
+"Remove Tags from Links" = "从链接中删除标签";
+
+"Removes tags from each specified link, if the tags are present." = "如果标签存在，则从每个指定链接中删除标签。";
+
+"Rename Tag" = "重命名标签";
+
+"Rename" = "重命名";
+
+"Reorder Actions" = "重新排序操作";
+
+"Required" = "必需";
+
+"Reset iCloud Data" = "重置iCloud数据";
+
+"Reset Sync State" = "重置同步状态";
+
+"Resync" = "重新同步";
+
+"Returns all tags." = "Returns all tags.";
+
+"Returns links are tagged with the specified tag." = "返回含指定的标签的链接。";
+
+"Returns links in the specified list." = "返回指定列表中的链接。";
+
+"Safari Reader Mode" = "Safari阅读器模式";
+
+"Save…" = "存储…";
+
+"Saved Date" = "保存日期";
+
+"Saved" = "已保存";
+
+"Search or enter website name" = "搜索或输入网站名称";
+
+"Search text." = "Search text.";
+
+"Search" = "搜索";
+
+/* Searching “[List Name]” */
+"Searching “%@”" = "正在搜索“%@”";
+
+"See only the links that are tagged with specified tags." = "See only the links that are tagged with specified tags.";
+
+"Select All" = "全部选择";
+
+"Select" = "选择";
+
+"Send Log File" = "发送日志文件";
+
+/* Color */
+"Sepia" = "棕褐色";
+
+"Set ${field} of ${links} to ${tags}" = "将${links}的${field}设置为${tags}";
+
+"Set ${field} of ${links} to ${text}" = "将${links}的${field}设置为${text}";
+
+"Set ${field} of ${links} to ${yesOrNo}" = "将${links}的${field}设置为${yesOrNo}";
+
+"Set ${field} of ${links}" = "设置${links}的${field}";
+
+"Set Tags:" = "设置标签:";
+
+"Set Tags" = "设置标签";
+
+"Sets a specific field of the links passed into the action." = "设置一个传递给行动的链接特定字段。";
+
+"Settings" = "设置";
+
+"Share Extension" = "分享扩展";
+
+"Share" = "分享";
+
+"Short Swipe Left" = "向左短滑";
+
+"Short Swipe Right" = "向右短滑";
+
+"Show ${type} in ${applicationName}" = "在${applicationName}中显示${type}";
+
+"Show ${type}" = "显示${type}";
+
+"Show Favicons" = "显示收藏图标";
+
+"Show favicons" = "显示收藏图标";
+
+"Show links tagged with ${tag}" = "显示有${tag}标签的链接";
+
+"Show Links" = "显示链接";
+
+"Show List" = "显示列表";
+
+"Show preview images" = "显示预览图像";
+
+"Show Preview Images" = "显示预览图片";
+
+"Show Read Links" = "显示已读链接";
+
+"Show Read" = "显示已读";
+
+"Show Sidebar and Links" = "显示边栏和链接";
+
+"Show Sidebar" = "显示侧边栏";
+
+"Show Starred" = "显示加星标";
+
+"Show Tag" = "显示标签";
+
+"Show Tagged in ${applicationName}" = "在${applicationName}中显示加标签的";
+
+"Show Unread" = "显示未读";
+
+"Show Untagged" = "显示无标签";
+
+"Shows links are tagged with the specified tag in the GoodLinks app." = "显示在GoodLinks应用中使用指定标签进行标记的链接。";
+
+"Shows the specified list in the GoodLinks app." = "显示GoodLinks应用中指定的列表。";
+
+"Sidebar, Links and Article View" = "侧边栏、链接和阅读器";
+
+"Sidebar" = "侧栏";
+
+"Sign In" = "登录";
+
+"Sign Out" = "退出登录";
+
+/* Signed in as [User Name]. */
+"Signed in as %@." = "已登录为 %@。";
+
+"Signing In…" = "正在登录…";
+
+"Star" = "加星标";
+
+"Starred (%d)" = "已加星标(%d)";
+
+"Starred" = "加星标";
+
+"Summary:" = "摘要:";
+
+"Summary" = "摘要";
+
+"Support" = "联系技术支持";
+
+"Supported tags: [url], [url-unescaped], [image-url], [image-url-unescaped], [title], [summary], [author], [content-html], [content-text], [content-markdown], [tags]. Text enclosed in { } will be URL encoded." = "支持的标签：[url]、[url-unscaped]、[image-url]、[image-url-unscaped]、[title]、[summary]、[author]、[content-html]、[content-text]、[content-markdown]、[tags]。{}中包含的文本将进行URL编码。";
+
+"Swipe up or down with two fingers to quickly switch between the most recent light and dark themes." = "两指上滑和下滑可在最新的亮色和暗色主题之间快速切换。";
+
+"Swipes" = "滑动";
+
+"Switch Theme" = "切换主题";
+
+"System Font" = "系统字体";
+
+"System" = "匹配系统";
+
+/* Tag [TAG_NAME] */
+"Tag %@" = "标签 %@";
+
+"Tag" = "标签";
+
+"Tags:" = "标签:";
+
+"Tags" = "标签";
+
+"Tap to edit" = "点按可编辑";
+
+"The link to open." = "The link to open.";
+
+"The links to be deleted." = "The links to be deleted.";
+
+"The links to be updated." = "The links to be updated.";
+
+"The list to show." = "The list to show.";
+
+"The property to set for the links." = "The property to set for the links.";
+
+"The tag '${tag}' does not exist." = "标签'${tag}'不存在。";
+
+"The tag to show." = "The tag to show.";
+
+"The tags to add to the links." = "The tags to add to the links.";
+
+"The tags to filter." = "The tags to filter.";
+
+"The tags to remove from the links." = "The tags to remove from the links.";
+
+"The theme will automatically change based on your display brightness. You can set the threshold where the theme changes. The circle indicates your display's current brightness." = "主题将根据显示屏亮度自动更改。可以设置主题更改的阈值。圆圈表示显示屏的当前亮度。";
+
+"The URL is not valid." = "URL无效。";
+
+"The URL to be added." = "The URL to be added.";
+
+"Themes" = "主题";
+
+"This is a destructive and permanent action. You will be asked to confirm before links are deleted." = "This is a destructive and permanent action. You will be asked to confirm before links are deleted.";
+
+"This page is not available offline." = "此页面无法离线使用。";
+
+"Title:" = "标题:";
+
+"Title" = "标题";
+
+"Toggle Read" = "切换已读";
+
+"Toggle Sidebars" = "切换侧边栏";
+
+"Toggle Starred" = "切换加星标";
+
+"Total" = "总计";
+
+"Turn Off" = "关闭";
+
+"Turn On" = "开启";
+
+/* Show number of deleted items, e.g: Undo Delete (3) */
+"Undo Delete (%d)" = "撤消删除(%d)";
+
+"Undo Delete" = "撤销删除";
+
+"Unread (%d)" = "未读(%d)";
+
+"Unread Count Disabled" = "未读计数已禁用";
+
+"Unread Only" = "仅未读";
+
+"Unread" = "未读";
+
+"Unstar" = "取消星标";
+
+"Unstarred" = "已取消星标";
+
+"Untagged" = "无标签";
+
+"Update Action" = "更新操作";
+
+"Update Link" = "更新链接";
+
+"Update" = "更新";
+
+"URL:" = "URL:";
+
+"URL" = "URL";
+
+"Value" = "值";
+
+/* Version 1.0 (523) */
+"Version %1$@ (%2$@)" = "版本 %1$@ (%2$@)";
+
+"What do you want to search?" = "要搜索什么？";
+
+"What is its summary?" = "它的摘要是什么？";
+
+"What is its tags?" = "它的标签是什么？";
+
+"What is its title?" = "标题是什么？";
+
+"What link do you want to open?" = "你想打开什么链接？";
+
+"What tag do you want to filter?" = "要筛选什么标签？";
+
+"What tag do you want to open?" = "要打开什么标签？";
+
+"What tags do you want to add?" = "What tags do you want to add?";
+
+"What tags do you want to filter?" = "要筛选哪些标签？";
+
+"What tags do you want to remove?" = "What tags do you want to remove?";
+
+"What URL do you want to add?" = "要添加什么URL？";
+
+"What value do you want to set?" = "What value do you want to set?";
+
+"What's New" = "新增功能";
+
+"Whether or not to include read links." = "Whether or not to include read links.";
+
+"Whether or not to limit the number of link retrieved." = "Whether or not to limit the number of link retrieved.";
+
+"Which link do you want to open?" = "Which link do you want to open?";
+
+"Which link?" = "Which link?";
+
+"Which list?" = "哪个列表？";
+
+"Which tag do you want to open?" = "Which tag do you want to open?";
+
+"You can sign in later by tapping Settings > Accounts." = "可通过按“设置” > “帐户”稍后登录。";
+
+"You can sign in later in Preferences > Accounts." = "You can sign in later in Preferences > Accounts.";
+
+"You can sign in later in Settings > Accounts." = "You can sign in later in Settings > Accounts.";

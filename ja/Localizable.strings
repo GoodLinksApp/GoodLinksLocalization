@@ -1,0 +1,825 @@
+/* 1 link */
+"%@ link" = "%@ リンク";
+
+/* 3 links */
+"%@ links" = "%@ リンク";
+
+/* Number of votes */
+"%@ votes" = "%@ 票";
+
+/* 1 link, 1 unread */
+"%1$@ link, %2$@ unread" = "%1$@ リンク、%2$@ 未読";
+
+/* 3 links, 2 unread */
+"%1$@ links, %2$@ unread" = "%1$@ リンク、%2$@ 未読";
+
+/* Number of line (singular) */
+"%d Line" = "%d行";
+
+/* Number of line (plural) */
+"%d Lines" = "%d行";
+
+/* Number of links (singular) */
+"%d Link" = "%d リンク";
+
+/* Number of links (plural) */
+"%d Links" = "%d リンク";
+
+/* Number of app ratings on the App Store */
+"%d people have rated this version." = "%d人がこのバージョンを評価しました。";
+
+/* Number of selected links */
+"%d Selected" = "%d 件が選択されています";
+
+/* Number of unread links (singular) */
+"%d Unread Link" = "%d 未読リンク";
+
+/* Number of unread links (plural) */
+"%d Unread Links" = "%d 未読リンク";
+
+/* 1 vote (Singular) */
+"%d vote" = "%d 票";
+
+/* Show on widget */
+"+%@ more" = "+%@ 以上";
+
+/* Show on widget */
+"+%lld more" = "+%lld 以上";
+
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName}を${maximumValue}よりも大きくすることはできません。";
+
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName}を${minimumValue}未満にすることはできません。";
+
+"${displayName} can’t be negative." = "${displayName}は負にできません。";
+
+"About GoodLinks" = "GoodLinks について";
+
+"Accent Color" = "アクセントカラー";
+
+/* Privacy - Photo Library Additions Usage Description */
+"Access to your photo library is required to save photos." = "写真を保存するには、フォトライブラリへのアクセスが必要です。";
+
+"Accounts" = "アカウント";
+
+"Actions" = "アクション";
+
+"Add ${tags} to ${links}" = "${tags} を ${links} に追加";
+
+"Add ${url}" = "${url}を追加";
+
+"Add Action" = "アクション追加";
+
+"Add Link" = "リンクを追加する";
+
+"Add or remove from Starred" = "追加または星印から除去";
+
+"Add Tags to Links" = "タグをリンクに追加";
+
+"Add Tags:" = "タグ追加定する:";
+
+"Add Tags" = "タグ追加定する";
+
+"Add to Starred" = "星付きに追加する";
+
+"Add" = "追加";
+
+"Adds a new link." = "新しいリンクを追加します。";
+
+"After logging into your account, tap \"%@\" to import your articles into GoodLinks." = "アカウントにログインし、\"%@\"をタップして記事をGoodLinksにインポートします。";
+
+"All GoodLinks data in your iCloud account will be deleted. This cannot be reversed or undone. Please make sure to backup your data before doing this." = "iCloudのすべてのGoodLinksデータが削除されます。これは、元に戻したりやり直すことはできません。この操作を行う前に、かならずデータのバックアップを作成してください。";
+
+"All local data will be resynced from the cloud. Please make sure to backup your data before doing this." = "すべてのローカル データがクラウドから再同期されます。この操作を行う前に、かならずデータのバックアップを作成してください。";
+
+"All" = "すべて";
+
+"An unspecified error has occurred." = "不明なエラーが発生しました。";
+
+"App Icon Badge" = "アプリアイコンバッジ";
+
+"App Icon" = "アプリのアイコン";
+
+"Appearance" = "アピアランス";
+
+"Are you sure you want to delete the %d links permanently?" = "%d を永久的に削除してもよろしいですか?";
+
+"Are you sure you want to delete the %lld links permanently?" = "%lld を永久的に削除してもよろしいですか?";
+
+"Are you sure you want to delete the link permanently?" = "リンクを永久的に削除してもよろしいですか?";
+
+"Are you sure you want to delete the tag?" = "このタグを削除してもよろしいですか?";
+
+"Article View Only" = "リーダーのみ";
+
+"Article" = "記事";
+
+"Author" = "作成者";
+
+"Back" = "戻る";
+
+"Badges" = "バッジ";
+
+"Based on Screen Brightness" = "スクリーン輝度に基づく";
+
+/* Color */
+"Blue" = "ブルー";
+
+"Choose a link" = "リンクを選択";
+
+"Clear Local Data" = "ローカルデータを消去する";
+
+"Color" = "カラー";
+
+"Connect your Twitter account to GoodLinks to save the full content of Tweets and Twitter threads." = "TwitterをGoodLinksに接続していただくと、ツイートの内容やTwitterスレッドをすべて保存できます。";
+
+"Connect your Twitter account to GoodLinks to save\nthe full content of Tweets and Twitter threads." = "TwitterをGoodLinksに接続していただくと、ツイー\nトの内容やTwitterスレッドをすべて保存できます。";
+
+"Contain ${searchText}, tagged with ${tags}" = "${tags}のタグが付き、${searchText}を含む";
+
+"Contain ${searchText}" = "${searchText}を含む";
+
+"Copy Markdown" = "Markdownをコピー";
+
+"Copy Plain Text" = "プレインテキストをコピー";
+
+"Copy URL" = "URLをコピー";
+
+"Could not open the URL." = "URLを開けませんでした。";
+
+"Custom Actions" = "カスタムアクション";
+
+/* Color */
+"Cyan" = "シアン";
+
+/* Dark theme */
+"Dark" = "暗い";
+
+"Decrease Font Size" = "フォントサイズを小さくする";
+
+"Decrease Line Height" = "行の高さを小さくする";
+
+"Decrease Line Width" = "業の幅を小さくする";
+
+"Default Browser" = "既定のブラウザ";
+
+"Default Dark Theme" = "既定のダークテーマ";
+
+"Default Light Theme" = "既定のライトテーマ";
+
+"Default" = "デフォルト";
+
+"Delete ${links}" = "${links} を削除";
+
+"Delete all GoodLinks data in your iCloud account." = "ご使用のiCloudアカウントのすべてのGoodLinks データを削除します。";
+
+"Delete Links" = "リンクを削除";
+
+"Delete Selected" = "選択済を削除";
+
+"Delete Tag" = "タグを削除する";
+
+"Delete" = "削除";
+
+"Deletes the specified links." = "指定したリンクを削除します。";
+
+"Deleting…" = "削除しています…";
+
+"Deselect All" = "すべて選択解除";
+
+"Detail" = "詳細";
+
+"Do not ask me again" = "再表示しない";
+
+"Do you want to add it to Starred?" = "これを星付きに追加しますか？";
+
+"Do you want to include read links?" = "既読リンクを含めますか?";
+
+"Do you want to limit the number of links?" = "リンクの数を制限しますか？";
+
+"Do you want to mark it as read?" = "既読としてマークしますか？";
+
+"Do you want to upload and merge data on this device with iCloud?" = "このデバイス上のデータをiCloudにアップロードして同期しますか？";
+
+"Done" = "完了";
+
+"Download" = "ダウンロード";
+
+"Downloading…" = "ダウンロードしています…";
+
+"Downloading" = "ダウンロード中";
+
+"Drop to share, star, mark as read…" = "共有したり、星を付けたり、既読としてマークするにはドロップします…";
+
+"Edit Links" = "リンクを編集";
+
+"Edit" = "編集";
+
+"Enable File Logging" = "ファイル ログ作成を有効化";
+
+"Ensures each link contains the specified tags, adding them if needed." = "各リンクに指定したタグが含まれていることを確認し、必要に応じて追加します。";
+
+"Enter Safari Reader mode automatically when it is available for the webpage." = "ウェブページで利用可能場と気に、自動的に Safari リーダー モードに入ります。";
+
+"Export as Markdown" = "Markdown としてエクスポート";
+
+"Export as PDF" = "PDF としてエクスポート";
+
+"Export as Plain Text" = "プレーン テキストとしてエクスポート";
+
+"Export As:" = "名前を付けてエクスポート:";
+
+"Export Data" = "データをエクスポート";
+
+"Export" = "エクスポート";
+
+"Failed to save link" = "リンクの保存に失敗しました";
+
+"File Logging" = "ファイル ログ作成";
+
+"Filter Tags" = "タグをフィルタリング";
+
+"Filtered by Focus" = "「集中モード」でフィルタリング";
+
+"Focus Filter Off" = "集中モードフィルタリングオフ";
+
+"Font Size" = "フォント サイズ";
+
+"Font" = "フォント";
+
+"Force GoodLinks to resync all local data from iCloud." = "GoodLinksにiCloudからすべてのローカル データを再同期するように強制します。";
+
+"Found %@ result" = "結果が %@ 件見つかりました";
+
+/* Found 3 results */
+"Found %@ results" = "結果が %@ 件見つかりました";
+
+"Get links in ${type}" = "${type}でリンクを取得する";
+
+"Get Links in List" = "リストでリンクを取得する";
+
+"Get links in Read" = "既読でリンクを取得する";
+
+"Get links in Starred" = "星付きでリンクを取得する";
+
+"Get links in Unread" = "未読でリンクを取得する";
+
+"Get links in Untagged" = "タグなしでリンクを取得する";
+
+"Get links tagged with ${tag}" = "${tag}のタグがついたリンクを取得";
+
+"Get quick access to a list or tag." = "リストまたはタグへのクイック アクセスを取得します。";
+
+"Get Tagged Links" = "タグ付けされたリンクを取得する";
+
+"Get tags" = "タグを取得する";
+
+"Get Tags" = "タグを取得する";
+
+/* Color */
+"Gold" = "ゴールド";
+
+"GoodLinks is not authorized to set unread count badge. Please check your settings and then enable Unread Count Badge again." = "GoodLinksには未読カウントバッジを設定する権限がありません。設定をチェックし、未読カウントバッジを再び有効化してください。";
+
+"GoodLinks will now begin resyncing data in the background. This may take a few minutes to complete." = "GoodLinksにより、バックグラウンドでデータの再同期が開始されます。完了までに数分かかることがあります。";
+
+/* Color */
+"Gray" = "グレイ";
+
+/* Color */
+"Green" = "グリーン";
+
+"Hide GoodLinks" = "GoodLinks を隠す";
+
+"Hide Links" = "リンクを非表示にする";
+
+"Hide Read Links" = "既読リンクを非表示にする";
+
+"Hide Sidebar and Links" = "サイドバーおよびリンクを非表示にする";
+
+"Hide Sidebar" = "サイドバーを非表示にします";
+
+"How many links do you want to get?" = "いくつのリンクを取得しますか？";
+
+"iCloud Account Changed" = "iCloudアカウントが変更されました";
+
+"Icon" = "アイコン";
+
+"Import All (%d)" = "すべてインポート（%d）";
+
+"Import Archive (%d)" = "アーカイブをインポート（%d）";
+
+"Import From…" = "インポートしています…";
+
+"Import Private (%d)" = "プライベートをインポート（%d）";
+
+"Import Public (%d)" = "パブリックをインポート（%d）";
+
+"Import Unread (%d)" = "未読をインポート（%d）";
+
+"Import" = "インポート";
+
+"In-app Browser" = "アプリ内ブラウザ";
+
+"Include Read Links" = "既読リンクを含める";
+
+"Increase Font Size" = "フォントサイズを大きくする";
+
+"Increase Line Height" = "ラインの高さをを大きくする";
+
+"Increase Line Width" = "ライン幅を大きくする";
+
+"Keyboard Shortcuts" = "キーボードショートカット";
+
+"Last Modified Date" = "最終変更日";
+
+/* Light theme */
+"Light" = "ライト";
+
+"Limit" = "限度";
+
+"Line Height" = "ライン高さ";
+
+"Line Width" = "ライン幅";
+
+"Link Detail" = "リンク詳細";
+
+"Link List" = "リンクのリスト";
+
+"Link not found." = "リンクが見つかりません。";
+
+"Link Search" = "リンク検索";
+
+"Link" = "リンク";
+
+"Links and Article View" = "リンクおよびリーダー";
+
+"Links" = "リンク";
+
+"List Settings" = "リスト設定";
+
+"List" = "リスト";
+
+"Lists & Tags" = "リスト&タグ";
+
+"Lists" = "リスト";
+
+"Lists/Tags Badges" = "リスト/タグバッジ";
+
+"Log in to paywalled sites to get full access to their content.\nAfter you have logged in, you may need to re-download the links you saved from those sites." = "お気に入りのサイトにログインし、すべてのコンテンツへのフルアクセスを取得しましょう。\nログイン後、これらのサイトから保存したリンクの再ダウンロードが必要になることがあります。";
+
+"Log in to Sites…" = "サイトへログイン…";
+
+"Log in to Sites" = "サイトへログイン";
+
+"Long Swipe Left" = "左に長くスワイプ";
+
+"Long Swipe Right" = "右に長くスワイプ";
+
+"Main List Type" = "メインリストのタイプ";
+
+"Main Window" = "メインウィンドウ";
+
+"Manually" = "手動で";
+
+"Mark as Read or Unread" = "既読または未読としてマーク";
+
+"Mark as Read" = "既読としてマークする";
+
+"Mark as Unread" = "未読状態にする";
+
+"Mark Read" = "既読";
+
+"Marks as Read" = "既読としてマーク";
+
+"Marks as Unread" = "未読としてマーク";
+
+"Match System" = "システムに合わせる";
+
+"Maybe Later" = "閉じる";
+
+"Merge" = "合併";
+
+/* Color */
+"Mint" = "ミント";
+
+"More Actions" = "その他のアクション";
+
+"More" = "もっと見る";
+
+"Multiple Selection" = "複数の選択";
+
+"Name" = "名前";
+
+"New Link" = "新しいリンク";
+
+"Newest First" = "最新を最初に";
+
+/* Night theme */
+"Night" = "夜";
+
+"No actions" = "アクションなし";
+
+"No Link Selected" = "リンクが選択されていません";
+
+"No links found." = "リンクが見つかりません。";
+
+"No links" = "リンクなし";
+
+"No results" = "結果なし";
+
+"No tags" = "タグなし";
+
+"No unread links" = "未読のリンクはありません";
+
+"No URL found" = "URLが見つかりません";
+
+"None" = "なし";
+
+"Not Available Offline" = "オフラインで使用できません";
+
+"Number of Links" = "リンクの数";
+
+"Oldest First" = "最古を最初に";
+
+"On Open" = "開いた時";
+
+"Open ${link}" = "${link}を開く";
+
+"Open a random unread link." = "ランダム未読リンクを開きます。";
+
+"Open a random unread link" = "ランダム未読リンクを開く";
+
+/* Open website in Safari/Google Chrome... */
+"Open in %@" = "%@で開く";
+
+"Open in Browser" = "ブラウザで開く";
+
+"Open in New Window" = "新しいウィンドウで開く";
+
+"Open Last Unread in ${applicationName}" = "${applicationName}で最新の未読を開く";
+
+"Open Last Unread" = "直近の未読リンクを開く";
+
+"Open Latest Unread in ${applicationName}" = "Open Latest Unread in ${applicationName}";
+
+"Open Link" = "リンクを開く";
+
+"Open links in browser in background" = "バックグラウンドでブラウザーでリンクを開く";
+
+"Open Links In" = "リンクを開く:";
+
+"Open Random in ${applicationName}" = "${applicationName}でランダムに開く";
+
+"Open Random Link" = "ランダムリンクを開く";
+
+"Open the last unread link" = "直近の未読リンクを開く";
+
+"Opens a random unread link in the GoodLinks app." = "GoodLinksアプリでランダム未読リンクを開きます。";
+
+"Opens the last unread link in the GoodLinks app." = "GoodLinksアプリで直近の未読リンクを開きます。";
+
+"Opens the link passed in as input." = "入力として通過したリンクを開きます。";
+
+"Optional, separated by spaces" = "任意、カンマ区切り";
+
+"Optional" = "オプション";
+
+"Optionally, a summary for this link." = "Optionally, a summary for this link.";
+
+"Optionally, a title for this link." = "Optionally, a title for this link.";
+
+"Optionally, add this link to Starred." = "Optionally, add this link to Starred.";
+
+"Optionally, mark this link as read." = "Optionally, mark this link as read.";
+
+"Optionally, tags to add to this link." = "Optionally, tags to add to this link.";
+
+"Optionally, what tags to include, separated by spaces." = "Optionally, what tags to include, separated by spaces.";
+
+/* Color */
+"Orange" = "オレンジ";
+
+/* Color */
+"Pink" = "ピンク";
+
+"Plain Text" = "標準文字";
+
+"Print" = "プリント";
+
+"Property" = "Property";
+
+/* Color */
+"Purple" = "パープル";
+
+"Quick Save" = "簡易保存";
+
+"Quit GoodLinks" = "GoodLinks を終了";
+
+"Rate GoodLinks on the App Store" = "App StoreでGoodLinksを評価する";
+
+"Re-download Article" = "記事を再ダウンロード";
+
+"Read Date" = "「既読」日";
+
+"Read" = "既読";
+
+"Reader Mode" = "リーダー モード";
+
+"Reader Settings" = "リーダー設定";
+
+/* Color */
+"Red" = "レッド";
+
+"Remove ${tags} from ${links}" = "${links} から ${tags} を除去";
+
+"Remove from Starred" = "星印付きアイテムから削除";
+
+"Remove Tags from Links" = "リンクからタグを除去";
+
+"Removes tags from each specified link, if the tags are present." = "タグが使用されている場合は、指定した各リンクからタグを除去します。";
+
+"Rename Tag" = "タグの名前を変更";
+
+"Rename" = "名前を変更";
+
+"Reorder Actions" = "アクションを並べ替える";
+
+"Required" = "必須";
+
+"Reset iCloud Data" = "iCloudデータをリセット";
+
+"Reset Sync State" = "同期状態をリセット";
+
+"Resync" = "再同期";
+
+"Returns all tags." = "Returns all tags.";
+
+"Returns links are tagged with the specified tag." = "リターンリンクには指定されたタグが付けられています。";
+
+"Returns links in the specified list." = "指定されたリストでリンクを返します。";
+
+"Safari Reader Mode" = "Safari リーダー モード";
+
+"Save…" = "保存…";
+
+"Saved Date" = "保存日";
+
+"Saved" = "保存されました";
+
+"Search or enter website name" = "検索またはウェブサイト名を入力";
+
+"Search text." = "Search text.";
+
+"Search" = "検索";
+
+/* Searching “[List Name]” */
+"Searching “%@”" = "「%@」を検索しています";
+
+"See only the links that are tagged with specified tags." = "See only the links that are tagged with specified tags.";
+
+"Select All" = "すべてを選択";
+
+"Select" = "選択";
+
+"Send Log File" = "ログファイルを送信";
+
+/* Color */
+"Sepia" = "セピア";
+
+"Set ${field} of ${links} to ${tags}" = "${links} の ${field} を ${tags} に設定";
+
+"Set ${field} of ${links} to ${text}" = "${links} の ${field} を ${text} に設定";
+
+"Set ${field} of ${links} to ${yesOrNo}" = "${links} の ${field} を ${yesOrNo} に設定";
+
+"Set ${field} of ${links}" = "${links} の ${field} を設定";
+
+"Set Tags:" = "タグを設定する:";
+
+"Set Tags" = "タグを設定する";
+
+"Sets a specific field of the links passed into the action." = "アクションに渡されたリンクの特定のフィールドを設定します。";
+
+"Settings" = "設定";
+
+"Share Extension" = "共有の拡張機能";
+
+"Share" = "共有";
+
+"Short Swipe Left" = "左に短くスワイプ";
+
+"Short Swipe Right" = "右に短くスワイプ";
+
+"Show ${type} in ${applicationName}" = "${applicationName}で${type}を表示する";
+
+"Show ${type}" = "${type}を表示";
+
+"Show favicons" = "ファビコンを表示";
+
+"Show Favicons" = "ファビコンを表示する";
+
+"Show links tagged with ${tag}" = "${tag}のタグが付いたリンクを表示する";
+
+"Show Links" = "リンクを表示する";
+
+"Show List" = "リストを表示";
+
+"Show preview images" = "プレビュー イメージを表示";
+
+"Show Preview Images" = "プレビュー画像を表示する";
+
+"Show Read Links" = "既読リンクを表示する";
+
+"Show Read" = "既読を表示する";
+
+"Show Sidebar and Links" = "サイドバーおよびリンクを表示する";
+
+"Show Sidebar" = "サイドバーを表示します";
+
+"Show Starred" = "星付きを表示する";
+
+"Show Tag" = "タグを表示する";
+
+"Show Tagged in ${applicationName}" = "${applicationName}でタグ付けされたものを表示する";
+
+"Show Unread" = "未読を表示する";
+
+"Show Untagged" = "タグなしを表示する";
+
+"Shows links are tagged with the specified tag in the GoodLinks app." = "GoodLinksアプリで指定されたタグによりタグづけされたリンクを表示します。";
+
+"Shows the specified list in the GoodLinks app." = "GoodLinksアプリで指定されたリストを表示します。";
+
+"Sidebar, Links and Article View" = "サイドバー、リンク、およびリーダー";
+
+"Sidebar" = "サイドバー";
+
+"Sign In" = "サインイン";
+
+"Sign Out" = "サインアウト";
+
+/* Signed in as [User Name]. */
+"Signed in as %@." = "%@としてサインインしています。";
+
+"Signing In…" = "サインイン中…";
+
+"Star" = "星付け";
+
+"Starred (%d)" = "星付き (%d)";
+
+"Starred" = "星付き";
+
+"Summary:" = "概要:";
+
+"Summary" = "概要";
+
+"Support" = "サポートに連絡";
+
+"Supported tags: [url], [url-unescaped], [image-url], [image-url-unescaped], [title], [summary], [author], [content-html], [content-text], [content-markdown], [tags]. Text enclosed in { } will be URL encoded." = "サポートされているタグ: [url]、[url-unescaped]、[image-url]、[image-url-unescaped]、[title]、[summary]、[author]、[content-html]、[content-text]、[content-markdown]、[tags]。{ }でエンコードされているテキストはURLエンコードされています。";
+
+"Swipe up or down with two fingers to quickly switch between the most recent light and dark themes." = "2本の指で上または下にスワイプすると、直近のライトテーマとダークテーマの間で手軽に切り替えることができます。";
+
+"Swipes" = "スワイプ";
+
+"Switch Theme" = "テーマを切り替える";
+
+"System Font" = "システムフォント";
+
+"System" = "システムと一致";
+
+/* Tag [TAG_NAME] */
+"Tag %@" = "タグ %@";
+
+"Tag" = "タグ";
+
+"Tags:" = "タグ:";
+
+"Tags" = "タグ";
+
+"Tap to edit" = "タップして編集";
+
+"The link to open." = "The link to open.";
+
+"The links to be deleted." = "The links to be deleted.";
+
+"The links to be updated." = "The links to be updated.";
+
+"The list to show." = "The list to show.";
+
+"The property to set for the links." = "The property to set for the links.";
+
+"The tag '${tag}' does not exist." = "「${tag}」タグは存在しません。";
+
+"The tag to show." = "The tag to show.";
+
+"The tags to add to the links." = "The tags to add to the links.";
+
+"The tags to filter." = "The tags to filter.";
+
+"The tags to remove from the links." = "The tags to remove from the links.";
+
+"The theme will automatically change based on your display brightness. You can set the threshold where the theme changes. The circle indicates your display's current brightness." = "このテーマはディスプレイの輝度に応じて自動的に変更されます。テーマが変更される閾値は設定することができます。円は、ディスプレイの現在の輝度を表しています。";
+
+"The URL is not valid." = "URLが無効です。";
+
+"The URL to be added." = "The URL to be added.";
+
+"Themes" = "テーマ";
+
+"This is a destructive and permanent action. You will be asked to confirm before links are deleted." = "This is a destructive and permanent action. You will be asked to confirm before links are deleted.";
+
+"This page is not available offline." = "このページはオフラインでは利用できません。";
+
+"Title:" = "タイトル:";
+
+"Title" = "タイトル";
+
+"Toggle Read" = "既読/未読の切り替え";
+
+"Toggle Sidebars" = "サイドバーを切り替え";
+
+"Toggle Starred" = "星印の切り替え";
+
+"Total" = "合計";
+
+"Turn Off" = "オフにする";
+
+"Turn On" = "オンにする";
+
+/* Show number of deleted items, e.g: Undo Delete (3) */
+"Undo Delete (%d)" = "削除を取り消す (%d)";
+
+"Undo Delete" = "削除を取り消す";
+
+"Unread (%d)" = "未読 (%d)";
+
+"Unread Count Disabled" = "未読カウントが無効です";
+
+"Unread Only" = "未読のみ";
+
+"Unread" = "未読";
+
+"Unstar" = "星付け解除";
+
+"Unstarred" = "星なし";
+
+"Untagged" = "タグなし";
+
+"Update Action" = "アクションを更新";
+
+"Update Link" = "リンクを更新";
+
+"Update" = "更新";
+
+"URL:" = "URL:";
+
+"URL" = "URL";
+
+"Value" = "値";
+
+/* Version 1.0 (523) */
+"Version %1$@ (%2$@)" = "バージョン%1$@ (%2$@)";
+
+"What do you want to search?" = "何を検索しますか？";
+
+"What is its summary?" = "その概要は何ですか？";
+
+"What is its tags?" = "そのタグは何ですか？";
+
+"What is its title?" = "タイトルは何ですか？";
+
+"What link do you want to open?" = "どのリンクを開きますか？";
+
+"What tag do you want to filter?" = "どのタグにフィルタを適用しますか？";
+
+"What tag do you want to open?" = "どのタグを開きますか？";
+
+"What tags do you want to add?" = "What tags do you want to add?";
+
+"What tags do you want to filter?" = "どのタグにフィルタを適用しますか？";
+
+"What tags do you want to remove?" = "What tags do you want to remove?";
+
+"What URL do you want to add?" = "追加したいURLは何ですか？";
+
+"What value do you want to set?" = "What value do you want to set?";
+
+"What's New" = "新機能";
+
+"Whether or not to include read links." = "Whether or not to include read links.";
+
+"Whether or not to limit the number of link retrieved." = "Whether or not to limit the number of link retrieved.";
+
+"Which link do you want to open?" = "Which link do you want to open?";
+
+"Which link?" = "Which link?";
+
+"Which list?" = "どのリストですか？";
+
+"Which tag do you want to open?" = "Which tag do you want to open?";
+
+"You can sign in later by tapping Settings > Accounts." = "「設定」 > 「アカウント」をタップして、あとからサインインできます。";
+
+"You can sign in later in Preferences > Accounts." = "You can sign in later in Preferences > Accounts.";
+
+"You can sign in later in Settings > Accounts." = "You can sign in later in Settings > Accounts.";

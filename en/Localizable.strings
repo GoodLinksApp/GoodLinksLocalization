@@ -1,0 +1,825 @@
+/* 1 link */
+"%@ link" = "%@ link";
+
+/* 3 links */
+"%@ links" = "%@ links";
+
+/* Number of votes */
+"%@ votes" = "%@ votes";
+
+/* 1 link, 1 unread */
+"%1$@ link, %2$@ unread" = "%1$@ link, %2$@ unread";
+
+/* 3 links, 2 unread */
+"%1$@ links, %2$@ unread" = "%1$@ links, %2$@ unread";
+
+/* Number of line (singular) */
+"%d Line" = "%d Line";
+
+/* Number of line (plural) */
+"%d Lines" = "%d Lines";
+
+/* Number of links (singular) */
+"%d Link" = "%d Link";
+
+/* Number of links (plural) */
+"%d Links" = "%d Links";
+
+/* Number of app ratings on the App Store */
+"%d people have rated this version." = "%d people have rated this version.";
+
+/* Number of selected links */
+"%d Selected" = "%d Selected";
+
+/* Number of unread links (singular) */
+"%d Unread Link" = "%d Unread Link";
+
+/* Number of unread links (plural) */
+"%d Unread Links" = "%d Unread Links";
+
+/* 1 vote (Singular) */
+"%d vote" = "%d vote";
+
+/* Show on widget */
+"+%@ more" = "+%@ more";
+
+/* Show on widget */
+"+%lld more" = "+%lld more";
+
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName} can’t be higher than ${maximumValue}.";
+
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName} can’t be lower than ${minimumValue}.";
+
+"${displayName} can’t be negative." = "${displayName} can’t be negative.";
+
+"About GoodLinks" = "About GoodLinks";
+
+"Accent Color" = "Accent Color";
+
+/* Privacy - Photo Library Additions Usage Description */
+"Access to your photo library is required to save photos." = "Access to your photo library is required to save photos.";
+
+"Accounts" = "Accounts";
+
+"Actions" = "Actions";
+
+"Add ${tags} to ${links}" = "Add ${tags} to ${links}";
+
+"Add ${url}" = "Add ${url}";
+
+"Add Action" = "Add Action";
+
+"Add Link" = "Add Link";
+
+"Add or remove from Starred" = "Add or remove from Starred";
+
+"Add Tags to Links" = "Add Tags to Links";
+
+"Add Tags:" = "Add Tags:";
+
+"Add Tags" = "Add Tags";
+
+"Add to Starred" = "Add to Starred";
+
+"Add" = "Add";
+
+"Adds a new link." = "Adds a new link.";
+
+"After logging into your account, tap \"%@\" to import your articles into GoodLinks." = "After logging into your account, tap \"%@\" to import your articles into GoodLinks.";
+
+"All GoodLinks data in your iCloud account will be deleted. This cannot be reversed or undone. Please make sure to backup your data before doing this." = "All GoodLinks data in your iCloud account will be deleted. This cannot be reversed or undone. Please make sure to backup your data before doing this.";
+
+"All local data will be resynced from the cloud. Please make sure to backup your data before doing this." = "All local data will be resynced from the cloud. Please make sure to backup your data before doing this.";
+
+"All" = "All";
+
+"An unspecified error has occurred." = "An unspecified error has occurred.";
+
+"App Icon Badge" = "App Icon Badge";
+
+"App Icon" = "App Icon";
+
+"Appearance" = "Appearance";
+
+"Are you sure you want to delete the %d links permanently?" = "Are you sure you want to delete the %d links permanently?";
+
+"Are you sure you want to delete the %lld links permanently?" = "Are you sure you want to delete the %lld links permanently?";
+
+"Are you sure you want to delete the link permanently?" = "Are you sure you want to delete the link permanently?";
+
+"Are you sure you want to delete the tag?" = "Are you sure you want to delete the tag?";
+
+"Article View Only" = "Article View Only";
+
+"Article" = "Article";
+
+"Author" = "Author";
+
+"Back" = "Back";
+
+"Badges" = "Badges";
+
+"Based on Screen Brightness" = "Based on Screen Brightness";
+
+/* Color */
+"Blue" = "Blue";
+
+"Choose a link" = "Choose a link";
+
+"Clear Local Data" = "Clear Local Data";
+
+"Color" = "Color";
+
+"Connect your Twitter account to GoodLinks to save the full content of Tweets and Twitter threads." = "Connect your Twitter account to GoodLinks to save the full content of Tweets and Twitter threads.";
+
+"Connect your Twitter account to GoodLinks to save\nthe full content of Tweets and Twitter threads." = "Connect your Twitter account to GoodLinks to save\nthe full content of Tweets and Twitter threads.";
+
+"Contain ${searchText}, tagged with ${tags}" = "Contain ${searchText}, tagged with ${tags}";
+
+"Contain ${searchText}" = "Contain ${searchText}";
+
+"Copy Markdown" = "Copy Markdown";
+
+"Copy Plain Text" = "Copy Plain Text";
+
+"Copy URL" = "Copy URL";
+
+"Could not open the URL." = "Could not open the URL.";
+
+"Custom Actions" = "Custom Actions";
+
+/* Color */
+"Cyan" = "Cyan";
+
+/* Dark theme */
+"Dark" = "Dark";
+
+"Decrease Font Size" = "Decrease Font Size";
+
+"Decrease Line Height" = "Decrease Line Height";
+
+"Decrease Line Width" = "Decrease Line Width";
+
+"Default Browser" = "Default Browser";
+
+"Default Dark Theme" = "Default Dark Theme";
+
+"Default Light Theme" = "Default Light Theme";
+
+"Default" = "Default";
+
+"Delete ${links}" = "Delete ${links}";
+
+"Delete all GoodLinks data in your iCloud account." = "Delete all GoodLinks data in your iCloud account.";
+
+"Delete Links" = "Delete Links";
+
+"Delete Selected" = "Delete Selected";
+
+"Delete Tag" = "Delete Tag";
+
+"Delete" = "Delete";
+
+"Deletes the specified links." = "Deletes the specified links.";
+
+"Deleting…" = "Deleting…";
+
+"Deselect All" = "Deselect All";
+
+"Detail" = "Detail";
+
+"Do not ask me again" = "Do not ask me again";
+
+"Do you want to add it to Starred?" = "Do you want to add it to Starred?";
+
+"Do you want to include read links?" = "Do you want to include read links?";
+
+"Do you want to limit the number of links?" = "Do you want to limit the number of links?";
+
+"Do you want to mark it as read?" = "Do you want to mark it as read?";
+
+"Do you want to upload and merge data on this device with iCloud?" = "Do you want to upload and merge data on this device with iCloud?";
+
+"Done" = "Done";
+
+"Download" = "Download";
+
+"Downloading…" = "Downloading…";
+
+"Downloading" = "Downloading";
+
+"Drop to share, star, mark as read…" = "Drop to share, star, mark as read…";
+
+"Edit Links" = "Edit Links";
+
+"Edit" = "Edit";
+
+"Enable File Logging" = "Enable File Logging";
+
+"Ensures each link contains the specified tags, adding them if needed." = "Ensures each link contains the specified tags, adding them if needed.";
+
+"Enter Safari Reader mode automatically when it is available for the webpage." = "Enter Safari Reader mode automatically when it is available for the webpage.";
+
+"Export as Markdown" = "Export as Markdown";
+
+"Export as PDF" = "Export as PDF";
+
+"Export as Plain Text" = "Export as Plain Text";
+
+"Export As:" = "Export As:";
+
+"Export Data" = "Export Data";
+
+"Export" = "Export";
+
+"Failed to save link" = "Failed to save link";
+
+"File Logging" = "File Logging";
+
+"Filter Tags" = "Filter Tags";
+
+"Filtered by Focus" = "Filtered by Focus";
+
+"Focus Filter Off" = "Focus Filter Off";
+
+"Font Size" = "Font Size";
+
+"Font" = "Font";
+
+"Force GoodLinks to resync all local data from iCloud." = "Force GoodLinks to resync all local data from iCloud.";
+
+"Found %@ result" = "Found %@ result";
+
+/* Found 3 results */
+"Found %@ results" = "Found %@ results";
+
+"Get links in ${type}" = "Get links in ${type}";
+
+"Get Links in List" = "Get Links in List";
+
+"Get links in Read" = "Get links in Read";
+
+"Get links in Starred" = "Get links in Starred";
+
+"Get links in Unread" = "Get links in Unread";
+
+"Get links in Untagged" = "Get links in Untagged";
+
+"Get links tagged with ${tag}" = "Get links tagged with ${tag}";
+
+"Get quick access to a list or tag." = "Get quick access to a list or tag.";
+
+"Get Tagged Links" = "Get Tagged Links";
+
+"Get tags" = "Get tags";
+
+"Get Tags" = "Get Tags";
+
+/* Color */
+"Gold" = "Gold";
+
+"GoodLinks is not authorized to set unread count badge. Please check your settings and then enable Unread Count Badge again." = "GoodLinks is not authorized to set unread count badge. Please check your settings and then enable Unread Count Badge again.";
+
+"GoodLinks will now begin resyncing data in the background. This may take a few minutes to complete." = "GoodLinks will now begin resyncing data in the background. This may take a few minutes to complete.";
+
+/* Color */
+"Gray" = "Gray";
+
+/* Color */
+"Green" = "Green";
+
+"Hide GoodLinks" = "Hide GoodLinks";
+
+"Hide Links" = "Hide Links";
+
+"Hide Read Links" = "Hide Read Links";
+
+"Hide Sidebar and Links" = "Hide Sidebar and Links";
+
+"Hide Sidebar" = "Hide Sidebar";
+
+"How many links do you want to get?" = "How many links do you want to get?";
+
+"iCloud Account Changed" = "iCloud Account Changed";
+
+"Icon" = "Icon";
+
+"Import All (%d)" = "Import All (%d)";
+
+"Import Archive (%d)" = "Import Archive (%d)";
+
+"Import From…" = "Import From…";
+
+"Import Private (%d)" = "Import Private (%d)";
+
+"Import Public (%d)" = "Import Public (%d)";
+
+"Import Unread (%d)" = "Import Unread (%d)";
+
+"Import" = "Import";
+
+"In-app Browser" = "In-app Browser";
+
+"Include Read Links" = "Include Read Links";
+
+"Increase Font Size" = "Increase Font Size";
+
+"Increase Line Height" = "Increase Line Height";
+
+"Increase Line Width" = "Increase Line Width";
+
+"Keyboard Shortcuts" = "Keyboard Shortcuts";
+
+"Last Modified Date" = "Last Modified Date";
+
+/* Light theme */
+"Light" = "Light";
+
+"Limit" = "Limit";
+
+"Line Height" = "Line Height";
+
+"Line Width" = "Line Width";
+
+"Link Detail" = "Link Detail";
+
+"Link List" = "Link List";
+
+"Link not found." = "Link not found.";
+
+"Link Search" = "Link Search";
+
+"Link" = "Link";
+
+"Links and Article View" = "Links and Article View";
+
+"Links" = "Links";
+
+"List Settings" = "List Settings";
+
+"List" = "List";
+
+"Lists & Tags" = "Lists & Tags";
+
+"Lists" = "Lists";
+
+"Lists/Tags Badges" = "Lists/Tags Badges";
+
+"Log in to paywalled sites to get full access to their content.\nAfter you have logged in, you may need to re-download the links you saved from those sites." = "Log in to paywalled sites to get full access to their content.\nAfter you have logged in, you may need to re-download the links you saved from those sites.";
+
+"Log in to Sites…" = "Log in to Sites…";
+
+"Log in to Sites" = "Log in to Sites";
+
+"Long Swipe Left" = "Long Swipe Left";
+
+"Long Swipe Right" = "Long Swipe Right";
+
+"Main List Type" = "Main List Type";
+
+"Main Window" = "Main Window";
+
+"Manually" = "Manually";
+
+"Mark as Read or Unread" = "Mark as Read or Unread";
+
+"Mark as Read" = "Mark as Read";
+
+"Mark as Unread" = "Mark as Unread";
+
+"Mark Read" = "Mark Read";
+
+"Marks as Read" = "Marks as Read";
+
+"Marks as Unread" = "Marks as Unread";
+
+"Match System" = "Match System";
+
+"Maybe Later" = "Maybe Later";
+
+"Merge" = "Merge";
+
+/* Color */
+"Mint" = "Mint";
+
+"More Actions" = "More Actions";
+
+"More" = "More";
+
+"Multiple Selection" = "Multiple Selection";
+
+"Name" = "Name";
+
+"New Link" = "New Link";
+
+"Newest First" = "Newest First";
+
+/* Night theme */
+"Night" = "Night";
+
+"No actions" = "No actions";
+
+"No Link Selected" = "No Link Selected";
+
+"No links found." = "No links found.";
+
+"No links" = "No links";
+
+"No results" = "No results";
+
+"No tags" = "No tags";
+
+"No unread links" = "No unread links";
+
+"No URL found" = "No URL found";
+
+"None" = "None";
+
+"Not Available Offline" = "Not Available Offline";
+
+"Number of Links" = "Number of Links";
+
+"Oldest First" = "Oldest First";
+
+"On Open" = "On Open";
+
+"Open ${link}" = "Open ${link}";
+
+"Open a random unread link." = "Open a random unread link.";
+
+"Open a random unread link" = "Open a random unread link";
+
+/* Open website in Safari/Google Chrome... */
+"Open in %@" = "Open in %@";
+
+"Open in Browser" = "Open in Browser";
+
+"Open in New Window" = "Open in New Window";
+
+"Open Last Unread in ${applicationName}" = "Open Last Unread in ${applicationName}";
+
+"Open Last Unread" = "Open Last Unread";
+
+"Open Latest Unread in ${applicationName}" = "Open Latest Unread in ${applicationName}";
+
+"Open Link" = "Open Link";
+
+"Open links in browser in background" = "Open links in browser in background";
+
+"Open Links In" = "Open Links In";
+
+"Open Random in ${applicationName}" = "Open Random in ${applicationName}";
+
+"Open Random Link" = "Open Random Link";
+
+"Open the last unread link" = "Open the last unread link";
+
+"Opens a random unread link in the GoodLinks app." = "Opens a random unread link in the GoodLinks app.";
+
+"Opens the last unread link in the GoodLinks app." = "Opens the last unread link in the GoodLinks app.";
+
+"Opens the link passed in as input." = "Opens the link passed in as input.";
+
+"Optional, separated by spaces" = "Optional, separated by spaces";
+
+"Optional" = "Optional";
+
+"Optionally, a summary for this link." = "Optionally, a summary for this link.";
+
+"Optionally, a title for this link." = "Optionally, a title for this link.";
+
+"Optionally, add this link to Starred." = "Optionally, add this link to Starred.";
+
+"Optionally, mark this link as read." = "Optionally, mark this link as read.";
+
+"Optionally, tags to add to this link." = "Optionally, tags to add to this link.";
+
+"Optionally, what tags to include, separated by spaces." = "Optionally, what tags to include, separated by spaces.";
+
+/* Color */
+"Orange" = "Orange";
+
+/* Color */
+"Pink" = "Pink";
+
+"Plain Text" = "Plain Text";
+
+"Print" = "Print";
+
+"Property" = "Property";
+
+/* Color */
+"Purple" = "Purple";
+
+"Quick Save" = "Quick Save";
+
+"Quit GoodLinks" = "Quit GoodLinks";
+
+"Rate GoodLinks on the App Store" = "Rate GoodLinks on the App Store";
+
+"Re-download Article" = "Re-download Article";
+
+"Read Date" = "Read Date";
+
+"Read" = "Read";
+
+"Reader Mode" = "Reader Mode";
+
+"Reader Settings" = "Reader Settings";
+
+/* Color */
+"Red" = "Red";
+
+"Remove ${tags} from ${links}" = "Remove ${tags} from ${links}";
+
+"Remove from Starred" = "Remove from Starred";
+
+"Remove Tags from Links" = "Remove Tags from Links";
+
+"Removes tags from each specified link, if the tags are present." = "Removes tags from each specified link, if the tags are present.";
+
+"Rename Tag" = "Rename Tag";
+
+"Rename" = "Rename";
+
+"Reorder Actions" = "Reorder Actions";
+
+"Required" = "Required";
+
+"Reset iCloud Data" = "Reset iCloud Data";
+
+"Reset Sync State" = "Reset Sync State";
+
+"Resync" = "Resync";
+
+"Returns all tags." = "Returns all tags.";
+
+"Returns links are tagged with the specified tag." = "Returns links are tagged with the specified tag.";
+
+"Returns links in the specified list." = "Returns links in the specified list.";
+
+"Safari Reader Mode" = "Safari Reader Mode";
+
+"Save…" = "Save…";
+
+"Saved Date" = "Saved Date";
+
+"Saved" = "Saved";
+
+"Search or enter website name" = "Search or enter website name";
+
+"Search text." = "Search text.";
+
+"Search" = "Search";
+
+/* Searching “[List Name]” */
+"Searching “%@”" = "Searching “%@”";
+
+"See only the links that are tagged with specified tags." = "See only the links that are tagged with specified tags.";
+
+"Select All" = "Select All";
+
+"Select" = "Select";
+
+"Send Log File" = "Send Log File";
+
+/* Color */
+"Sepia" = "Sepia";
+
+"Set ${field} of ${links} to ${tags}" = "Set ${field} of ${links} to ${tags}";
+
+"Set ${field} of ${links} to ${text}" = "Set ${field} of ${links} to ${text}";
+
+"Set ${field} of ${links} to ${yesOrNo}" = "Set ${field} of ${links} to ${yesOrNo}";
+
+"Set ${field} of ${links}" = "Set ${field} of ${links}";
+
+"Set Tags:" = "Set Tags:";
+
+"Set Tags" = "Set Tags";
+
+"Sets a specific field of the links passed into the action." = "Sets a specific field of the links passed into the action.";
+
+"Settings" = "Settings";
+
+"Share Extension" = "Share Extension";
+
+"Share" = "Share";
+
+"Short Swipe Left" = "Short Swipe Left";
+
+"Short Swipe Right" = "Short Swipe Right";
+
+"Show ${type} in ${applicationName}" = "Show ${type} in ${applicationName}";
+
+"Show ${type}" = "Show ${type}";
+
+"Show Favicons" = "Show Favicons";
+
+"Show favicons" = "Show favicons";
+
+"Show links tagged with ${tag}" = "Show links tagged with ${tag}";
+
+"Show Links" = "Show Links";
+
+"Show List" = "Show List";
+
+"Show Preview Images" = "Show Preview Images";
+
+"Show preview images" = "Show preview images";
+
+"Show Read Links" = "Show Read Links";
+
+"Show Read" = "Show Read";
+
+"Show Sidebar and Links" = "Show Sidebar and Links";
+
+"Show Sidebar" = "Show Sidebar";
+
+"Show Starred" = "Show Starred";
+
+"Show Tag" = "Show Tag";
+
+"Show Tagged in ${applicationName}" = "Show Tagged in ${applicationName}";
+
+"Show Unread" = "Show Unread";
+
+"Show Untagged" = "Show Untagged";
+
+"Shows links are tagged with the specified tag in the GoodLinks app." = "Shows links are tagged with the specified tag in the GoodLinks app.";
+
+"Shows the specified list in the GoodLinks app." = "Shows the specified list in the GoodLinks app.";
+
+"Sidebar, Links and Article View" = "Sidebar, Links and Article View";
+
+"Sidebar" = "Sidebar";
+
+"Sign In" = "Sign In";
+
+"Sign Out" = "Sign Out";
+
+/* Signed in as [User Name]. */
+"Signed in as %@." = "Signed in as %@.";
+
+"Signing In…" = "Signing In…";
+
+"Star" = "Star";
+
+"Starred (%d)" = "Starred (%d)";
+
+"Starred" = "Starred";
+
+"Summary:" = "Summary:";
+
+"Summary" = "Summary";
+
+"Support" = "Support";
+
+"Supported tags: [url], [url-unescaped], [image-url], [image-url-unescaped], [title], [summary], [author], [content-html], [content-text], [content-markdown], [tags]. Text enclosed in { } will be URL encoded." = "Supported tags: [url], [url-unescaped], [image-url], [image-url-unescaped], [title], [summary], [author], [content-html], [content-text], [content-markdown], [tags]. Text enclosed in { } will be URL encoded.";
+
+"Swipe up or down with two fingers to quickly switch between the most recent light and dark themes." = "Swipe up or down with two fingers to quickly switch between the most recent light and dark themes.";
+
+"Swipes" = "Swipes";
+
+"Switch Theme" = "Switch Theme";
+
+"System Font" = "System Font";
+
+"System" = "System";
+
+/* Tag [TAG_NAME] */
+"Tag %@" = "Tag %@";
+
+"Tag" = "Tag";
+
+"Tags:" = "Tags:";
+
+"Tags" = "Tags";
+
+"Tap to edit" = "Tap to edit";
+
+"The link to open." = "The link to open.";
+
+"The links to be deleted." = "The links to be deleted.";
+
+"The links to be updated." = "The links to be updated.";
+
+"The list to show." = "The list to show.";
+
+"The property to set for the links." = "The property to set for the links.";
+
+"The tag '${tag}' does not exist." = "The tag '${tag}' does not exist.";
+
+"The tag to show." = "The tag to show.";
+
+"The tags to add to the links." = "The tags to add to the links.";
+
+"The tags to filter." = "The tags to filter.";
+
+"The tags to remove from the links." = "The tags to remove from the links.";
+
+"The theme will automatically change based on your display brightness. You can set the threshold where the theme changes. The circle indicates your display's current brightness." = "The theme will automatically change based on your display brightness. You can set the threshold where the theme changes. The circle indicates your display's current brightness.";
+
+"The URL is not valid." = "The URL is not valid.";
+
+"The URL to be added." = "The URL to be added.";
+
+"Themes" = "Themes";
+
+"This is a destructive and permanent action. You will be asked to confirm before links are deleted." = "This is a destructive and permanent action. You will be asked to confirm before links are deleted.";
+
+"This page is not available offline." = "This page is not available offline.";
+
+"Title:" = "Title:";
+
+"Title" = "Title";
+
+"Toggle Read" = "Toggle Read";
+
+"Toggle Sidebars" = "Toggle Sidebars";
+
+"Toggle Starred" = "Toggle Starred";
+
+"Total" = "Total";
+
+"Turn Off" = "Turn Off";
+
+"Turn On" = "Turn On";
+
+/* Show number of deleted items, e.g: Undo Delete (3) */
+"Undo Delete (%d)" = "Undo Delete (%d)";
+
+"Undo Delete" = "Undo Delete";
+
+"Unread (%d)" = "Unread (%d)";
+
+"Unread Count Disabled" = "Unread Count Disabled";
+
+"Unread Only" = "Unread Only";
+
+"Unread" = "Unread";
+
+"Unstar" = "Unstar";
+
+"Unstarred" = "Unstarred";
+
+"Untagged" = "Untagged";
+
+"Update Action" = "Update Action";
+
+"Update Link" = "Update Link";
+
+"Update" = "Update";
+
+"URL:" = "URL:";
+
+"URL" = "URL";
+
+"Value" = "Value";
+
+/* Version 1.0 (523) */
+"Version %1$@ (%2$@)" = "Version %1$@ (%2$@)";
+
+"What do you want to search?" = "What do you want to search?";
+
+"What is its summary?" = "What is its summary?";
+
+"What is its tags?" = "What is its tags?";
+
+"What is its title?" = "What is its title?";
+
+"What link do you want to open?" = "What link do you want to open?";
+
+"What tag do you want to filter?" = "What tag do you want to filter?";
+
+"What tag do you want to open?" = "What tag do you want to open?";
+
+"What tags do you want to add?" = "What tags do you want to add?";
+
+"What tags do you want to filter?" = "What tags do you want to filter?";
+
+"What tags do you want to remove?" = "What tags do you want to remove?";
+
+"What URL do you want to add?" = "What URL do you want to add?";
+
+"What value do you want to set?" = "What value do you want to set?";
+
+"What's New" = "What's New";
+
+"Whether or not to include read links." = "Whether or not to include read links.";
+
+"Whether or not to limit the number of link retrieved." = "Whether or not to limit the number of link retrieved.";
+
+"Which link do you want to open?" = "Which link do you want to open?";
+
+"Which link?" = "Which link?";
+
+"Which list?" = "Which list?";
+
+"Which tag do you want to open?" = "Which tag do you want to open?";
+
+"You can sign in later by tapping Settings > Accounts." = "You can sign in later by tapping Settings > Accounts.";
+
+"You can sign in later in Preferences > Accounts." = "You can sign in later in Preferences > Accounts.";
+
+"You can sign in later in Settings > Accounts." = "You can sign in later in Settings > Accounts.";
